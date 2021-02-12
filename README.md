@@ -2,11 +2,12 @@
 
 This is a simple project for my **The Theory of Computation class**.
 
-about it:
-    it looks for a special word in a text
-    and if it's in the text The output is:
+#### About
+    It looks for a special word in a text and If it's in the text, 
+    
+    The output is:
         It's Here.
-    other cases:
+    Other cases:
         it's not here.
 ### Starting the Search
 ~~~~~~~~~~~~~~~~
